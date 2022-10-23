@@ -1,0 +1,12 @@
+[INFO ] 2022-10-23 02:32:41.485 [main] BaseClass - This test is on: chrome browser
+[INFO ] 2022-10-23 02:32:45.684 [main] BaseClass - URL is Opened
+[INFO ] 2022-10-23 02:32:45.854 [main] BaseClass - Email Address entered
+[INFO ] 2022-10-23 02:32:45.929 [main] BaseClass - password entered
+[INFO ] 2022-10-23 02:33:00.722 [main] BaseClass - Image Uploaded
+[INFO ] 2022-10-23 02:33:08.814 [main] BaseClass - Published
+[INFO ] 2022-10-23 02:33:21.113 [main] BaseClass - This test is on: chrome browser
+[INFO ] 2022-10-23 02:33:24.517 [main] BaseClass - URL is Opened
+[INFO ] 2022-10-23 02:33:24.606 [main] BaseClass - Email Address entered
+[INFO ] 2022-10-23 02:33:24.674 [main] BaseClass - password entered
+[INFO ] 2022-10-23 02:33:38.925 [main] BaseClass - Image Uploaded
+[INFO ] 2022-10-23 02:33:48.385 [main] BaseClass - Published
